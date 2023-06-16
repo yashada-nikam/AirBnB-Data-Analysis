@@ -6,7 +6,7 @@ This project focuses on analyzing Airbnb data for the city of Seattle. The datas
 
 Through the analysis, we explore different aspects of the Airbnb ecosystem, including property availability, pricing dynamics, host performance, and guest preferences. The project utilizes SQLite as the database management system to query the data and extract relevant information. The analysis involves generating meaningful visualizations, conducting statistical calculations, and interpreting the results to draw actionable insights.
 
-Key questions addressed in this project include:
+**Key questions addressed in this project include:**
 
 How does the availability of properties vary based on factors such as security deposits, license requirements, and number of reviews?
 
